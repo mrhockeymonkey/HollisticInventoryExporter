@@ -1,0 +1,18 @@
+[
+  {
+    "Hostname": "hostname1",
+    "OperatingSystem": "Linux"
+  },
+  {
+    "Hostname": "hostname2.co.uk",
+    "OperatingSystem": "Raspbian"
+  },
+  {
+    "Hostname": "hostnamehostnamehostname3.co.uk",
+    "OperatingSystem": "Windows"
+  },
+  {
+    "Hostname": "hostname4.co.uk",
+    "OperatingSystem": "Windows"
+  }
+]
